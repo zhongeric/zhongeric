@@ -2,7 +2,7 @@
 
 Feel free to check out my website at https://ericzhong.com or <a href="mailto:ezhong@umich.edu">email me</a>
 
-Currently interested in blockchain, Ethereum, cryptography, and privacy.
+Currently interested in Ethereum, cryptography, and privacy.
 
 <!--
 **zhongeric/zhongeric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
