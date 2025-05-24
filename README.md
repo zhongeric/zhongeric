@@ -1,4 +1,4 @@
-https://ericzhong.com or <a href="mailto:ezhong1900@gmail.com">email me</a>
+https://ezhong.eth.limo or <a href="mailto:ezhong1900@gmail.com">email me</a>
 
 <!--
 **zhongeric/zhongeric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
